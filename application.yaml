@@ -1,0 +1,7 @@
+# TruffleHog Test 
+somePassword: secretPassword
+someUser: admin
+
+
+# Exclude
+password: "{bcrypt}$2y$10$o198Zpks9/e0JLLG/kFWK.cKaRxxx"
